@@ -1,7 +1,5 @@
 # Selfie Capture App
 
-Problem Statement
-
 A simple responsive mobile website built with reactJS / reactNative, to do the following
 
 1. Open the camera and take a selfie (mobile)
